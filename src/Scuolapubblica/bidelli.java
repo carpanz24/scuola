@@ -11,7 +11,7 @@ public class bidelli extends Personaggiscuola {
 	
 	@Override
 	public void saluta() {
-		System.out.println("il bidello sta salutando");
+		System.out.println("il bidello sta salutando!");
 	}
 
 
